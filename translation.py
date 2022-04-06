@@ -2,13 +2,13 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot!
+This is a Telegram 𝘿𝙚𝙫𝙖 𝙪𝙧𝙡 𝙪𝙥𝙡𝙤𝙖𝙙 𝘽𝙤𝙩!
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @NP_technology
+Support Group : @Deva_TG_Update
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @NP_technology
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @NP_technology
+Support Group : @Deva_TG_Update
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -34,9 +34,9 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 
  
     
-    DOWNLOAD_START = "Trying to download your file from Web..."
+    DOWNLOAD_START = "𝙏𝙧𝙮𝙞𝙣𝙜 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝘿𝙚𝙫 𝙎𝙚𝙧𝙫𝙚𝙧..."
     
-    UPLOAD_START = "Uploading now to Telegram.."
+    UPLOAD_START = "𝙐𝙥𝙡𝙤𝙖𝙙𝙞𝙣𝙜 𝙏𝙤 𝘿𝙚𝙫 𝙨𝙚𝙧𝙫𝙚𝙧.."
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
@@ -54,4 +54,4 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
-    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
+    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your 𝙏𝙝𝙪𝙢𝙗𝙣𝙖𝙞𝙡 𝙥𝙚𝙧𝙢𝙖𝙣𝙚𝙣𝙩𝙡𝙮."    
